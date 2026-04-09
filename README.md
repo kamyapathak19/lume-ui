@@ -3,7 +3,7 @@
 LUME is a futuristic smart projection system interface built using Next.js.
 
 ## 🚀 Live Demo
-https://lume-ui-pi.vercel.app
+https://kamyapathak19.github.io/lume-ui/
 
 ## 💡 Features
 - Theme-based experience (sleep, gaming, meditation, etc.)
