@@ -1,6 +1,14 @@
-# LUME ✨
+# Portable Smart Projection System
 
-LUME is a futuristic smart projection system interface built using Next.js.
+## Overview
+This project presents a smart projection system that uses IoT sensors and a web-based interface to create an adaptive and immersive environment.
+
+## Components
+- ESP8266 (initial prototype)
+- LDR sensor (light detection)
+- PIR sensor (motion detection)
+- Raspberry Pi (proposed enhancement)
+- Web-based UI (remote control)
 
 ## 🚀 Live Demo
 https://kamyapathak19.github.io/lume-ui/
